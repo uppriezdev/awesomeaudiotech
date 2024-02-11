@@ -83,38 +83,40 @@
 
 ## Asio Driver & Routing Software
 
-- FlexAsio (Windows)
-- VB Virtual Audio Cable (Windows / Mac)
-- VB-Matrix (Windows)
-- Loopback (Mac)
-- BlackHole (Mac)
-- VoiceMeeter (Windows)
-- ASIO4All (Windows but not recommended)
+- [FlexAsio (Windows)](https://github.com/dechamps/FlexASIO/releases/tag/flexasio-1.9) + [GUI Editor](https://github.com/flipswitchingmonkey/FlexASIO_GUI/releases)
+- [VB Virtual Audio Cable (Windows / Mac)](https://vb-audio.com/Cable/VirtualCables.htm)
+- [VB-Matrix (Windows)](https://vb-audio.com/Matrix/)
+- [Loopback (Mac)](https://rogueamoeba.com/loopback/)
+- [BlackHole (Mac)](https://existential.audio/blackhole/)
+- [VoiceMeeter (Windows)](https://vb-audio.com/Voicemeeter/)
+- [ASIO4All](https://asio4all.org/) (Windows but not recommended)
 
 ## Awesome DAW
 
-- Cakewalk (Windows)
-- Cakewalk Next (Windows / Mac)
-- LMMS (Cross-Platform)
-- Audour
-- Bandlab
-- Logic Pro (Mac)
-- Luna (Mac/ Windows is Coming soon..)
-- Ableton
-- FL Studio
-- Cubase
-- Nuendo
-- Pro tools
-- Zythm (Windows/Linux)
+- [Cakewalk (Windows)](https://www.bandlab.com/products/cakewalk)
+- [Cakewalk Next (Windows / Mac)](https://www.cakewalk.com/next)
+- [LMMS (Cross-Platform)](https://lmms.io/)
+- [Audour](https://ardour.org/)
+- [Bandlab](https://www.bandlab.com/)
+- [Logic Pro (Mac)](https://www.apple.com/logic-pro/)
+- [Luna (Mac/ Windows is Coming soon..)](https://www.uaudio.com/luna.html)
+- [Ableton](https://www.ableton.com/)
+- [FL Studio](https://www.image-line.com/)
+- [Cubase](https://new.steinberg.net/cubase/)
+- [Nuendo](https://new.steinberg.net/nuendo/)
+- [Pro Tools](https://www.avid.com/pro-tools)
+- [Studio One](https://www.presonus.com/en-US/studio-one.html)
+- [Zythm (Windows/Linux)](https://www.zrythm.org/en/index.html)
 
 ## Awesome Voice Synthesizer
 
-- Vocaloid
-- Synthesizer V
-- Ace Studio
-- UTAU
-- Pocket Singer (Android / IOS)
-- Vocaloid Mobile (iOS)
+- [Vocaloid](https://www.vocaloid.com/en/)
+- [Synthesizer V](https://dreamtonics.com/synthesizerv/)
+- [Ace Studio](https://ace-studio.timedomain.cn/)
+- [UTAU](http://utau.us/)
+- [OpenUTAU](https://www.openutau.com/)
+- Pocket Singer ([Android](https://play.google.com/store/apps/details?id=com.accidental.ocsinger&hl=en) / [IOS](https://apps.apple.com/us/app/pocket-singer-my-oc-sings/id1665512424))
+- [Vocaloid Mobile (iOS)](https://apps.apple.com/jp/app/mobile-vocaloid-editor/id947797108)
 
 ## Units of Measurement
 
